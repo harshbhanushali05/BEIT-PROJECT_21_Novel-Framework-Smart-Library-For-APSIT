@@ -3,7 +3,9 @@ Novel Framework Smart Library
 
 # Group Members
 [Pravin Jaiswal](https://github.com/pravinjaiswal) - 16104058
+
 [Mohit Jain](https://github.com/Mohitt95) - 16204033
+
 [Sanjog Mhasde](https://github.com/sanjogmhasde) - 15204006
 
 # Brief Description
