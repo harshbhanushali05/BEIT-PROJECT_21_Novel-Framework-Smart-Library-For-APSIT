@@ -6,7 +6,7 @@ Novel Framework Smart Library
 [Mohit Jain](https://github.com/Mohitt95) - 16204033
 [Sanjog Mhasde](https://github.com/sanjogmhasde) - 15204006
 
-#Brief Description
+# Brief Description
 Smart Library is a project which aims in developing a computerized system to maintain
 all the daily work of library.This project has many features which are generally not available
 in normal library management systems like facility of recommendation system in that user
